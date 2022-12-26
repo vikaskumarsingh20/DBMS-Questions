@@ -1,4 +1,4 @@
-# crackSQLinterviewQuestions
+# let's crackSQLinterviewQuestions
 Completed SQL interview Questions ine one Repo.
 # **Cracking the SQL Interview**
 
